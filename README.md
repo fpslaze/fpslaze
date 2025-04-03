@@ -1,7 +1,3 @@
-🔭 I’m currently working on https://discord.gg/tura
-
-
-
  <div align="left"><img src="https://komarev.com/ghpvc/?username=fpslaze&label=Profile%20views&color=blue&style=plastic" alt="outsider31000" /></div>
         
 <div align="center">
